@@ -1,4 +1,4 @@
-#Projeto do curso "Minha primeira API" - Programaria.
+# Projeto do curso "Minha primeira API" - Programaria.
 
 Uma lista de Mulheres na Tecnologia com nome, imagem, citação e minibio.
 Banco de dados, MongoDB.
